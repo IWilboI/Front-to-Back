@@ -1,10 +1,10 @@
-# Will it Work?
+# README generator.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
 
-Testing function.
+First backend application to generate README's.
 
 ## Table of Contents
 
@@ -17,11 +17,11 @@ Testing function.
 
 ## Installation
 
-do it right the first time.
+Twist it, Pull it, Push it, Bop IT!
 
 ## Usage
 
-do be dumd.
+It uses stuff and things.
 
 ## License
 
@@ -30,11 +30,11 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 
 ## Contributing
 
-be cool
+Don't be silly.
 
 ## Tests
 
-be smart
+It works, trust me lolz.
 
 ## Questions
 
